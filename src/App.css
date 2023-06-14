@@ -6,7 +6,7 @@
 .body{
   background-color: wheat;
    width: 100%;
-  display: flex;
+  /* display: flex; */
   justify-content: center;
   align-items: center;
   height: 50vh;
@@ -16,6 +16,8 @@
   width: 100px;
   height: 30px;
   border-radius: 10px;
+  display: flex;
+  justify-content: center;
 
 
 }
@@ -26,10 +28,10 @@ p{
   background-color: wheat;
   background-color: wheat;
   width: 100%;
- display: flex;
+ /* display: flex; */
  justify-content: center;
  align-items: center;
  height: 50vh;
- flex-direction: column;
+ /* flex-direction: column; */
  
 }
